@@ -4,6 +4,9 @@
 看下面的高质量视频，学习减脂增肌，将自己的整体状况调整到理想状态。
 
 ## 你应该关注的指标
+<details>
+  <summary>点击展开</summary>
+
 * BMI（身体质量指数）：
     * 目标范围： 18.5 ~ 23.9
     * *注解：* 这是中国男性的标准健康区间。超出 24 为超重，超出 28 为肥胖。
@@ -45,6 +48,7 @@
         * 快速眼动 (REM)： 大脑排毒、记忆巩固、情绪调节的时间。
     * *警告：* 如果这两个指标很低，即便练得再好，肌肉也长不出来，脂肪也掉不下去（皮质醇过高）。
 
+</details>
 
 ## 如何使用本列表？（使用指南）
 1. 第一步：明确目的（增肌/减脂/康复/运动表现/其他）
@@ -148,6 +152,7 @@
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 51 万粉
 1. Eden健身一噔噔: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉
 1. 小魏的运动领域: [抖音](https://www.douyin.com/user/MS4wLjABAAAAb9yPHJdrbKMJ9OAxnB-rwGX1lX0SiHWdU66JXvb8ZuGp_kvZAPTxlgm2_kFYH1Z_?from_tab_name=main&vid=7472701223657819444)
+1. 谭成义: [抖音](https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY?from_tab_name=main) 198 万粉
 
 <details>
   <summary>（点击展开）第二批</summary>
@@ -434,14 +439,11 @@ BMI >= 28 是肥胖
 - [注意！不吃晚饭减肥容易养成易胖体质](https://www.bilibili.com/video/BV1Yt4y1x7tK)：3 分钟
 
 
-## 备注
+<!-- ## 备注
 此列表有我个人主观，所以很多"名人"和"网红"不在表里。   
 筛选标准是 "教学类视频多，质量普遍较高"。      
-排序比较主观，希望这些视频创作者本人看到此表不要介意。  
+排序比较主观，希望这些视频创作者本人看到此表不要介意。   -->
 
-## 个人建议
-你一定要对自己的时间和注意力非常的挑剔。  
-你是来学会营养，学会健身，然后去做，去改变你的身体，不要浪费时间看健身相关的任何娱乐内容。最好的例子是 Will Tennyson 的视频，其他例子比如健身圈的人物和梗，你一定要忽略这些东西，专注你自己。
 
 <!-- 
 本列表不收录备赛日常,顶尖运动员日常分享,搞笑/抽象,生活类,有争议,以及其他和健身教学无关内容，比如：
